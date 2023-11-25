@@ -4,9 +4,9 @@ html {
   font-weight: 100;
   background-color: #FFF8F0;;
 }
+
 body{
-  width: 1300px;
-  height: 2000px;
+  margin: 0px;
 }
 
 #hero-section {
@@ -297,13 +297,14 @@ button {
 
 
 #footer{
-  width: 1440px;
-  height: 58px;
+  /* width: 1440px;
+  height: 58px; */
   background-color: #000;
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0px 0px ;
 
 }
 
